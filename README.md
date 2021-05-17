@@ -13,7 +13,7 @@
 <a href="https://twitter.com/DuncanMathenge6">
   <img align="left" alt="Duncan Kiragu - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<a href="https://facebook.com/akshaymarch7">
+<a href="https://facebook.com/">
   <img align="left" alt="Duncan Kiragu - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 <br />
