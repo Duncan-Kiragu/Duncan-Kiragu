@@ -17,7 +17,7 @@
 <br />
 <br />
 
-Fullstack website developer, podcaster and writer.
+I am a fullstack website developer, podcaster and writer.
 
 
 I'm just an invite away - mathenge089@gmail.com
