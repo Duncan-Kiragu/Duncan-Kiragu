@@ -1,8 +1,6 @@
-### Hi there 👋
+# Hi there 👋,
 
  <!-- Duncan-Kiragu/Duncan-Kiragu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-# Hello World,
 
 <a href="https://www.linkedin.com/in/duncankiragumathenge">
   <img align="left" alt="Duncan Kiragu - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
@@ -10,7 +8,7 @@
 <a href="https://www.instagram.com/itskiragu_/">
   <img align="left" alt="Duncan Kiragu - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
-<a href="https://twitter.com/DuncanMathenge6">
+<a href="https://twitter.com/DuncanKMathenge">
   <img align="left" alt="Duncan Kiragu - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <a href="https://facebook.com/">
@@ -19,7 +17,7 @@
 <br />
 <br />
 
-I'm a developer by profession and a writer by passion.  
+Fullstack website developer, podcaster and writer.
 
 
 I'm just an invite away - mathenge089@gmail.com
@@ -34,4 +32,4 @@ Also interested in:
 
 Cheers,  
 Duncan Kiragu  
-[ME !](https://duncankiragu.wordpress.com)
+[Read More !](https://linkedin.com/in/duncankiragumathenge)
