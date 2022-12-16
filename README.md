@@ -17,15 +17,16 @@
 <br />
 <br />
 
-I am a fullstack website developer, podcaster and writer.
+I am a fullstack software developer, animator and writer.
 
 
 I'm just an invite away - mathenge089@gmail.com
 
 Technologies:
-- Javascript, Fusion, React, Angular, Vue, Weex, jQuery, PWA, AMP
+- Javascript - Moleculer, React, Vue
 - Node, Java, Ruby on Rails
-- C++, Python
+- Python - Django, Flask
+- Blender
 
 Also interested in:
 - Digital Marketing, SEO, SMM, Blogging, Web Security, CMS
