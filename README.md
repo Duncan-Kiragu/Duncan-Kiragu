@@ -23,8 +23,8 @@ I am a fullstack software developer, animator and writer.
 I'm just an invite away - mathenge089@gmail.com
 
 Technologies:
-- Javascript - Moleculer, React, Vue
-- Node, Java, Ruby on Rails
+- Javascript - Moleculer, React, Vue, Node, Express
+- Kafka, Redis, Postgresql, NATS
 - Python - Django, Flask
 - Blender
 
