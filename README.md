@@ -1,7 +1,7 @@
 # Hi there 👋,
 
  <!-- Duncan-Kiragu/Duncan-Kiragu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Duncan-Kiragu&theme=github-dark-blue&border_radius=)](https://git.io/streak-stats)
 <a href="https://www.linkedin.com/in/duncankiragumathenge">
   <img align="left" alt="Duncan Kiragu - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
