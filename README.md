@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duncan Kiragu</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Kafka**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **mathenge089@gmail.com**
 
